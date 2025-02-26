@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Machine Learning (AIMS CDT), University of Oxford, 2023 - present 
+* MSc in Mathematics and Foundations of Computer Science, University of Oxford, 2022-2023
+* BSc in Natural Science (First Class Honours), University of Exeter, 2016-2019
 
-Work experience
+
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Research Intern
+  * Torr Vision Group, University of Oxford 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisors: Professor Phil Torr, Dr Yuge Shi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative Analyst, 2019 - 2022
+  * Aviva Investors, London
+
 
 Publications
 ======
@@ -42,18 +35,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+# ======
+ # <ul>{% for post in site.talks %}
+  #  {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+  #<ul>{% for post in site.teaching %}
+ #  {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
