@@ -20,7 +20,7 @@ author_profile: true
 * BSc in Natural Sciences, University of Exeter, *2016 - 2019*
 
 ## Academic experience
-* Machine Learning Intern (UniQ+ DeepMind Intern) *Summer 2022* 
+* Machine Learning Intern (UniQ+ DeepMind Intern), *Summer 2022* 
   * Torr Vision Group, University of Oxford
   * Supervisors: Prof Philip Torr, Yuge (Jimmy) Shi, Dr Elise van der Pol (Microsoft Research)
 
