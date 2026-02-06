@@ -16,8 +16,8 @@ author_profile: true
   * Current project: Developing integrated diffusion and Bayesian Optimization frameworks for de novo molecular
   * First project: Rethinking aleatoric and epistemic uncertainty (see Publications)  
 
-* **M.S.c in Mathematics & Foundations of Computer Science**, University of Oxford, 2022-2023
-* B.S.c in Natural Sciences, University of Exeter, 2016 - 2019
+* **MSc in Mathematics & Foundations of Computer Science**, University of Oxford, *2022-2023*
+* BSc in Natural Sciences, University of Exeter, *2016 - 2019*
 
 ## Academic experience
 * Machine Learning Intern (UniQ+ DeepMind Intern) *Summer 2022* 
