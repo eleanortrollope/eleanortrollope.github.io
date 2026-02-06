@@ -27,5 +27,22 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+(function () {
+  const link = document.getElementById("contact-link");
+  if (!link) return;
+
+  link.addEventListener("click", function (e) {
+    e.preventDefault();
+
+    const user = "elletrollopeaims";            // before @
+    const domain = "gmail.com";   // after @
+
+    window.location.href = "mailto:" + user + "@" + domain;
+  });
+})();
+</script>
+
+
   </body>
 </html>
