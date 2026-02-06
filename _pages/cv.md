@@ -13,7 +13,7 @@ author_profile: true
 * **DPhil in Machine Learning**, AIMS CDT, **University of Oxford**,  *2023 - present*
   * Advisors: Prof. Stephen Roberts, Prof. Yee-Whye Teh, Dr. Tim Rudner  
   * DPhil title: *Novel AI methods for Scientific Discovery*  
-  * Current project: Developing integrated diffusion and Bayesian Optimization frameworks for de novo molecular
+  * Current project: Developing integrated diffusion and Bayesian Optimization frameworks for de novo molecular design
   * First project: Rethinking aleatoric and epistemic uncertainty (see Publications)  
 
 * **MSc in Mathematics & Foundations of Computer Science**, University of Oxford, *2022-2023*
