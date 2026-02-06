@@ -14,5 +14,4 @@ category: "conference"
 date: 2025-07-01
 link: "https://proceedings.mlr.press/v267/bickford-smith25a.html"
 arxiv: "2412.20892"
-excerpt: "We revisit the distinction between aleatoric and epistemic uncertainty, proposing ..."
 ---
