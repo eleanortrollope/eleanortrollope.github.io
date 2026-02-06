@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/ax79_v1_asset.jpg
+
+Sitemap: https://eleanortrollope.github.io/sitemap.xml
