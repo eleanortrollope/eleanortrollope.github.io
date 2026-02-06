@@ -86,9 +86,9 @@ author:
 publication_category:
   # books:
     # title: 'Books'
-  conferences:
+  conference:
     title: 'Conference Papers'
-  workshops:
+  workshop:
     title: 'Workshop Papers'    
   
 
