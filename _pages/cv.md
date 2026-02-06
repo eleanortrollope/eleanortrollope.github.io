@@ -26,7 +26,7 @@ author_profile: true
 
 ## Professional experience
 * Quantitative Analyst *2019-2022*
-  * Multi-Asset Investment Team, Aviva Investors
+  * Multi-Asset Investment Team, Aviva Investors, London
   
 ## Interests 
 - Travelling, hiking, climbing (bouldering)
