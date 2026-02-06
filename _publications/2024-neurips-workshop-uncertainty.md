@@ -13,5 +13,4 @@ year: 2024
 category: "workshop"
 date: 2024-12-01
 link: "https://arxiv.org/abs/2412.20892"
-excerpt: "Presented at the Workshop on Bayesian Decision-Making and Uncertainty (NeurIPS 2024)."
 ---
