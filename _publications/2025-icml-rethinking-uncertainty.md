@@ -12,7 +12,7 @@ venue: "Proceedings of the 42nd International Conference on Machine Learning (IC
 year: 2025
 category: "conference"
 date: 2025-07-01
-url: "[https://openreview.net/forum?id=CY9MlORQs5](https://proceedings.mlr.press/v267/bickford-smith25a.html)"
+url: "https://proceedings.mlr.press/v267/bickford-smith25a.html"
 arxiv: "2412.20892"
 excerpt: "We revisit the distinction between aleatoric and epistemic uncertainty, proposing ..."
 ---
