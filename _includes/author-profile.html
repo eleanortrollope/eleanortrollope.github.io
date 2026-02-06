@@ -18,7 +18,8 @@
   <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}"
        class="author__avatar"
        alt="{{ author.name }}"
-       style="display: block;">
+       style="display: block;
+       pointer-events: none;">
 
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; cursor: default;">
     <rect width="100%" height="100%" fill="transparent" />
