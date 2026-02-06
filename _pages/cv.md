@@ -22,7 +22,7 @@ author_profile: true
 ## Academic experience
 * Machine Learning Intern (UniQ+ DeepMind Intern) *Summer 2022* 
   * Torr Vision Group, University of Oxford
-  * Supervisors: Phil Torr, Jimmy Yuge Shi
+  * Supervisors: Prof Philip Torr, Yuge (Jimmy) Shi, Dr Elise van der Pol (Microsoft Research)
 
 ## Professional experience
 * Quantitative Analyst *2019-2022*
