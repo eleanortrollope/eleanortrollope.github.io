@@ -10,8 +10,7 @@ author_profile: true
 
 
 ## Education
-* **DPhil in Machine Learning** (CDT in Autonomous Intelligent Machines & Systems (AIMS)  
-**University of Oxford**,  *2023 - present*
+* **DPhil in Machine Learning**, CDT in Autonomous Intelligent Machines & Systems (AIMS) **University of Oxford**,  *2023 - present*
   * Advisors: Prof. Stephen Roberts, Prof. Yee-Whye Teh, Dr. Tim Rudner  
   * DPhil title: *Novel AI methods for Scientific Discovery*  
   * Current project: Developing integrated diffusion and Bayesian Optimization frameworks for de novo molecular
